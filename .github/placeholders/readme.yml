@@ -1,0 +1,12 @@
+REPO_TAGLINE: Limits • Derivatives • Integrals
+ASSETS_DIR: .github/readme
+CTA_TEXT: Access the full course website
+THEME: peace
+SITE_URL: https://academic-codex.github.io/SMA0301-Calculo-I
+
+BG_1: "#0B1F17"
+BG_2: "#133A2C"
+TEXT_MAIN: "#ECFFF6"
+TEXT_MUTED: "#B7E6D1"
+ACCENT: "#34D399"
+CARD_RADIUS: "18"
